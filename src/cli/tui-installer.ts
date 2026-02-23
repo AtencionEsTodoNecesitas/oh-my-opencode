@@ -113,12 +113,7 @@ export async function runTuiInstaller(args: InstallArgs, version: string): Promi
     "The Magic Word",
   )
 
-  p.log.message(`${color.yellow("★")} If you found this helpful, consider starring the repo!`)
-  p.log.message(
-    `  ${color.dim("gh api --silent --method PUT /user/starred/code-yeongyu/oh-my-opencode >/dev/null 2>&1 || true")}`,
-  )
-
-  p.outro(color.green("oMoMoMoMo... Enjoy!"))
+  p.outro(color.green("Setup complete. Enjoy!"))
 
   if ((config.hasClaude || config.hasGemini || config.hasCopilot) && !args.skipAuth) {
     const providers: string[] = []

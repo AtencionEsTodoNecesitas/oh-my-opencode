@@ -464,7 +464,7 @@ Run background subagents in separate tmux panes. Requires running inside tmux wi
 Configure git commit behavior:
 
 ```json
-{ "git_master": { "commit_footer": true, "include_co_authored_by": true } }
+{ "git_master": { "commit_footer": false, "include_co_authored_by": false } }
 ```
 
 ### Comment Checker
