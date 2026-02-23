@@ -7,7 +7,7 @@
 >
 > Because the impersonation site is behind a paywall, we **cannot verify what it distributes**. Treat any downloads from it as **potentially unsafe**.
 >
-> ✅ Official downloads: https://github.com/code-yeongyu/oh-my-opencode/releases
+> ✅ Official downloads: https://github.com/AtencionEsTodoNecesitas/oh-my-opencode/releases
 
 > [!NOTE]
 >
@@ -26,9 +26,9 @@
 
 <div align="center">
 
-[![Oh My OpenCode](./.github/assets/hero.jpg)](https://github.com/code-yeongyu/oh-my-opencode#oh-my-opencode)
+[![Oh My OpenCode](./.github/assets/hero.jpg)](https://github.com/AtencionEsTodoNecesitas/oh-my-opencode#oh-my-opencode)
 
-[![Preview](./.github/assets/omo.png)](https://github.com/code-yeongyu/oh-my-opencode#oh-my-opencode)
+[![Preview](./.github/assets/omo.png)](https://github.com/AtencionEsTodoNecesitas/oh-my-opencode#oh-my-opencode)
 
 
 </div>
@@ -41,14 +41,14 @@
 
 <div align="center">
 
-[![GitHub Release](https://img.shields.io/github/v/release/code-yeongyu/oh-my-opencode?color=369eff&labelColor=black&logo=github&style=flat-square)](https://github.com/code-yeongyu/oh-my-opencode/releases)
+[![GitHub Release](https://img.shields.io/github/v/release/AtencionEsTodoNecesitas/oh-my-opencode?color=369eff&labelColor=black&logo=github&style=flat-square)](https://github.com/AtencionEsTodoNecesitas/oh-my-opencode/releases)
 [![npm downloads](https://img.shields.io/npm/dt/oh-my-opencode?color=ff6b35&labelColor=black&style=flat-square)](https://www.npmjs.com/package/oh-my-opencode)
-[![GitHub Contributors](https://img.shields.io/github/contributors/code-yeongyu/oh-my-opencode?color=c4f042&labelColor=black&style=flat-square)](https://github.com/code-yeongyu/oh-my-opencode/graphs/contributors)
-[![GitHub Forks](https://img.shields.io/github/forks/code-yeongyu/oh-my-opencode?color=8ae8ff&labelColor=black&style=flat-square)](https://github.com/code-yeongyu/oh-my-opencode/network/members)
-[![GitHub Stars](https://img.shields.io/github/stars/code-yeongyu/oh-my-opencode?color=ffcb47&labelColor=black&style=flat-square)](https://github.com/code-yeongyu/oh-my-opencode/stargazers)
-[![GitHub Issues](https://img.shields.io/github/issues/code-yeongyu/oh-my-opencode?color=ff80eb&labelColor=black&style=flat-square)](https://github.com/code-yeongyu/oh-my-opencode/issues)
-[![License](https://img.shields.io/badge/license-SUL--1.0-white?labelColor=black&style=flat-square)](https://github.com/code-yeongyu/oh-my-opencode/blob/master/LICENSE.md)
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/code-yeongyu/oh-my-opencode)
+[![GitHub Contributors](https://img.shields.io/github/contributors/AtencionEsTodoNecesitas/oh-my-opencode?color=c4f042&labelColor=black&style=flat-square)](https://github.com/AtencionEsTodoNecesitas/oh-my-opencode/graphs/contributors)
+[![GitHub Forks](https://img.shields.io/github/forks/AtencionEsTodoNecesitas/oh-my-opencode?color=8ae8ff&labelColor=black&style=flat-square)](https://github.com/AtencionEsTodoNecesitas/oh-my-opencode/network/members)
+[![GitHub Stars](https://img.shields.io/github/stars/AtencionEsTodoNecesitas/oh-my-opencode?color=ffcb47&labelColor=black&style=flat-square)](https://github.com/AtencionEsTodoNecesitas/oh-my-opencode/stargazers)
+[![GitHub Issues](https://img.shields.io/github/issues/AtencionEsTodoNecesitas/oh-my-opencode?color=ff80eb&labelColor=black&style=flat-square)](https://github.com/AtencionEsTodoNecesitas/oh-my-opencode/issues)
+[![License](https://img.shields.io/badge/license-SUL--1.0-white?labelColor=black&style=flat-square)](https://github.com/AtencionEsTodoNecesitas/oh-my-opencode/blob/master/LICENSE.md)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/AtencionEsTodoNecesitas/oh-my-opencode)
 
 [English](README.md) | [한국어](README.ko.md) | [日本語](README.ja.md) | [简体中文](README.zh-cn.md)
 
@@ -99,7 +99,7 @@ Copy and paste this prompt to your LLM agent (Claude Code, AmpCode, Cursor, etc.
 
 ```
 Install and configure oh-my-opencode by following the instructions here:
-https://raw.githubusercontent.com/code-yeongyu/oh-my-opencode/refs/heads/master/docs/guide/installation.md
+https://raw.githubusercontent.com/AtencionEsTodoNecesitas/oh-my-opencode/refs/heads/dev/docs/guide/installation.md
 ```
 
 Or read the [Installation Guide](docs/guide/installation.md), but seriously, let an agent do it. Humans fat-finger configs.
@@ -109,7 +109,7 @@ Or read the [Installation Guide](docs/guide/installation.md), but seriously, let
 Fetch the installation guide and follow it:
 
 ```bash
-curl -s https://raw.githubusercontent.com/code-yeongyu/oh-my-opencode/refs/heads/master/docs/guide/installation.md
+curl -s https://raw.githubusercontent.com/AtencionEsTodoNecesitas/oh-my-opencode/refs/heads/dev/docs/guide/installation.md
 ```
 
 ---
@@ -119,7 +119,7 @@ curl -s https://raw.githubusercontent.com/code-yeongyu/oh-my-opencode/refs/heads
 We're past the era of reading docs. Just paste this into your agent:
 
 ```
-Read this and tell me why it's not just another boilerplate: https://raw.githubusercontent.com/code-yeongyu/oh-my-opencode/refs/heads/dev/README.md
+Read this and tell me why it's not just another boilerplate: https://raw.githubusercontent.com/AtencionEsTodoNecesitas/oh-my-opencode/refs/heads/dev/README.md
 ```
 
 ## Highlights
